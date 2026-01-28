@@ -1,0 +1,9 @@
+We need a new structure in which the index is simply looking for links to add as embeds.
+
+It's just looking for links and automatically adding them to the marquee.
+
+Might create some issues with naming the links in the marquee.
+
+However, this project is gonna get real bloated and real duplicated real quick if we just have the index.html files that might need to get used elsewhere. 
+
+We gotta have this simply be an overlay that reads a bunch of other actively developed projects.
